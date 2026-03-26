@@ -33,19 +33,19 @@
       <a href="https://github.com/b8lz/discord-token-grabber">
         <img src="https://img.shields.io/badge/Discord%20Token%20Grabber-FF0000?style=for-the-badge&logo=discord" alt="Token Grabber">
       </a><br>
-      <strong>Fast Discord token grabber.</strong><br>
+      <strong>fast discord token grabber</strong><br>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/b8lz/discord-injection-remover">
         <img src="https://img.shields.io/badge/Injection%20Remover-00FF00?style=for-the-badge&logo=shield" alt="Injection Remover">
       </a><br>
-      <strong>A simple tool to detect and remove Discord client injections.</strong><br>
+      <strong>a simple tool to detect and remove discord client injections.</strong><br>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/b8lz/voice-connector">
         <img src="https://img.shields.io/badge/Voice%20Connector-7289DA?style=for-the-badge&logo=discord" alt="Voice Connector">
       </a><br>
-      <strong>A Discord tool to keep you in VC 24/7.</strong><br>
+      <strong>a discord tool to keep you in vc 24/7.</strong><br>
     </td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@
       <a href="https://github.com/b8lz/Nightfall-Stealer">
         <img src="https://img.shields.io/badge/Nightfall%20Stealer-8B00FF?style=for-the-badge&logo=discord&logoColor=white" alt="Nightfall Stealer">
       </a><br>
-      <strong>Advanced Discord token & data stealer with many features.</strong><br>
+      <strong>advanced discord token & data stealer with many features</strong><br>
     </td>
   </tr>
 </table>
@@ -77,9 +77,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b8lz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=b8lz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b8lz&theme=tokyonight&hide_border=true" alt="Streak Stats">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=b8lz&theme=tokyonight&hide_border=true" alt="Streak Stats">
 </div>
 
 ---
