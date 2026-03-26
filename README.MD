@@ -77,9 +77,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=b8lz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  <img src="https://github-stats-extended.vercel.app/api?username=b8lz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
   <br><br>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=b8lz&theme=tokyonight&hide_border=true" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=b8lz&theme=tokyonight&hide_border=true" alt="Streak Stats">
 </div>
 
 ---
