@@ -54,7 +54,6 @@
         <img src="https://img.shields.io/badge/Nightfall%20Stealer-8B00FF?style=for-the-badge&logo=discord&logoColor=white" alt="Nightfall Stealer">
       </a><br>
       <strong>Advanced Discord token & data stealer with many features.</strong><br>
-      Multi-platform support, anti-debug, custom webhook exfil, browser data, and more.
     </td>
   </tr>
 </table>
